@@ -24,7 +24,7 @@
 | 🥽 [WebAR](https://github.com/unstopablethinkerr/AR)                                                | Marker-based augmented reality in the browser |
 | 🎮 [GameGrid](https://github.com/unstopablethinkerr/gamegrid)                                       | Collection of browser games                   |
 | 🧩 [Jigsaw Puzzle](https://github.com/unstopablethinkerr/jigsaw-puzzle)                             | Play custom image puzzles                     |
-| 🧩 [Jigsaw Puzzle](https://unstopablethinkerr.github.io/snakes)                                     | Play Famous Snake Game                        |
+| 🧩 [Snake Game](https://unstopablethinkerr.github.io/snakes)                                        | Play Famous Snake Game                        |
 
 
 ---
